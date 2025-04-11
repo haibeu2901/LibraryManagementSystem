@@ -52,19 +52,20 @@ Live Demo: :point_right: [here]()
 
 #| Name | Description
 -| ---- | -----------
-1| [src Folder](https://github.com/haibeu2901/prj301-ProductIntroduction/tree/main/src) | source code
-2| [Database File](https://github.com/haibeu2901/prj301-ProductIntroduction/blob/main/ProductIntroDB.sql) | database script
+1| [src Folder](https://github.com/haibeu2901/LibraryManagementSystem/tree/main/src) | source code
+2| [Database File](https://github.com/haibeu2901/LibraryManagementSystem/blob/main/lmsDb.sql) | database script
 
 
 ## How Can Get Started
 
 - Using NetBeans 8.2 IDE to start project easier
 - After open project in IDE, import JCalendar 1.3.2 library
-- Run the [`ProductIntroDB.sql`](https://github.com/haibeu2901/prj301-ProductIntroduction/blob/main/ProductIntroDB.sql) script 
-- Replace some database connection imformation in [`ConnectionProvider.java`](https://github.com/haibeu2901/prj301-ProductIntroduction/blob/main/src/java/utilities/ConnectDb.java) file
+- Run the [`lmsDb.sql`](https://github.com/haibeu2901/LibraryManagementSystem/blob/main/lmsDb.sql) script 
+- Replace some database connection imformation in [`ConnectionProvider.java`](https://github.com/haibeu2901/LibraryManagementSystem/blob/main/src/Project/ConnectionProvider.java) file
 
 ## Learn More
-- [JCalendar-1.3.2.jar.zip](https://github.com/haibeu2901/prj301-ProductIntroduction/tree/main/Manual%20Deploying%20Tomcat%20Server)
+- [JCalendar-1.3.2.jar.zip](https://github.com/haibeu2901/LibraryManagementSystem/blob/main/jcalendar-1.3.2.jar)
+- [rs2xml.jar](https://github.com/haibeu2901/LibraryManagementSystem/blob/main/rs2xml.jar)
 
 ## License & Copyright
 &copy; 2025 Hai Doan haibeu2901 Licensed under the [GPL-3.0 LICENSE](https://github.com/haibeu2901/prj301-ProductIntroduction/blob/main/LICENSE).
